@@ -1,0 +1,29 @@
+We are pushing for several standard openings:
+
+White
+
+e4:
+ - e5: scotch gambit OR petrov's defense
+ - c5: grand prix
+ - e6: tarrash
+ - c6: caro kann advance, tal (h4) (van der Wiel?)
+ - d6: samish or some lion's jaw
+ - d5: scandi leonhardt b4
+ - g6: samish
+ - Nf6: chase with c4
+d4:
+ - Nf6: catalan or samish
+ - d5: slav (modern / quiet)
+ - d6 / e6 / g6: hopefully samish
+ - c5: benoni
+ - f5: fianchetto
+
+Black
+
+e4: sicilian (kann, dragondorf)
+d4: Nf6: 
+ - Bf4: c5 accelerated london
+ - c4: grunfeld
+ - Bf4 trompowsky c5
+ - g3: c5
+c4: not cool, chyba standardowo
